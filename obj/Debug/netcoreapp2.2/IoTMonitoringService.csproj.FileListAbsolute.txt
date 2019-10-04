@@ -1,0 +1,11 @@
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/bin/Debug/netcoreapp2.2/IoTMonitoringService.deps.json
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/bin/Debug/netcoreapp2.2/IoTMonitoringService.runtimeconfig.json
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/bin/Debug/netcoreapp2.2/IoTMonitoringService.runtimeconfig.dev.json
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/bin/Debug/netcoreapp2.2/IoTMonitoringService.dll
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/bin/Debug/netcoreapp2.2/IoTMonitoringService.pdb
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.csprojAssemblyReference.cache
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.csproj.CoreCompileInputs.cache
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.AssemblyInfoInputs.cache
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.AssemblyInfo.cs
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.dll
+/Volumes/gCamouInc/Dev/Projects/IoTMonitoringService/obj/Debug/netcoreapp2.2/IoTMonitoringService.pdb
